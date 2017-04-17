@@ -18,7 +18,7 @@ session_start();
 body {//background-color:lightgrey;}
 h1   {color:white;
       text-align:center;}
-p    {color:white;}  
+p    {color:black;}  
     
  
     
@@ -53,11 +53,11 @@ li a:hover {
     <a href= "login.php" target="_blank" >
     <center><img src="aaf.png" alt="AA&F logo" style="width:304px;height:228px;"></center>
     </a>
-        <h1 style="color:Black;"><center>Welcome to the Aviation Arms &amp; Flight Information System, _________!</center></h1>
+        <h1 style="color:Black;"><center>Aviation Arms & Flight Information System Mission Statement</center></h1>
         
     <ul>
         
-        <li><a href="mission_statement.php">Mission Statement</a></li>
+        <li><a href="homepage.php">Homepage</a></li>
         <li><a href="lookup_contract.php">Lookup Contract</a></li>
         <li><a href="part_catalog.php">Part Catalog</a></li>
         <li><a href="request_meeting.php">Request Meeting</a></li>
@@ -67,9 +67,10 @@ li a:hover {
         
         </ul>
     
-  <p> AA &amp; F Homepage </p>
+  <br><br><br>
         
-        <center><img src="propeller.jpg" alt="AA&F Logo" style="width:500px;height:400px;"></center>
+        <center><img src="airplane.png" alt="AA&F Logo" style="width:500px;height:400px;"></center>
+        <center><p>The Aviation Arms & Flight Information Systems main goal is to provide customer satisfaction and warranty protection on all parts. Our parts are guarenteed to equip your plane with all the safest parts so you will have a safe flight.If our parts so not meet your expectations simply return it an you will be issued a full refund. </p></center>
         
         
     
@@ -82,7 +83,7 @@ li a:hover {
 
     </body>
     
- <br><br><br>  
+    <br><br><br>  
 <center><p style="color:#D10000;">Please Follow Us @AA&F!:</p>
     <script type="text/javascript" src="https://ws.sharethis.com/button/buttons.js"></script>
 <script type="text/javascript">stLight.options({publisher: "389b443c-450b-475f-9c48-37d9c88e353d", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
@@ -94,4 +95,3 @@ li a:hover {
 <span class='st_pinterest_large' displayText='Pinterest'></span>
 <span class='st_google_large' displayText='Google'></span>
     </html></center>
-
